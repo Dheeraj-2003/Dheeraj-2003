@@ -10,9 +10,7 @@
 
 ###
 
-<h4 align="left">📫 Reach me at <a href="#" target="_blank">
-    <h4 align="left>dheerajsolanki203@gmail.com</h2>
-  </a></h4>
+<h4 align="left">📫 Reach me at dheerajsolanki203@gmail.com </h4>
 
 ###
 
